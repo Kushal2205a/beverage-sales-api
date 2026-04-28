@@ -1,1 +1,3 @@
 .venv/
+forecasting/data/forecasting-study.xlsx
+forecasting/src/features/__pycache__/
