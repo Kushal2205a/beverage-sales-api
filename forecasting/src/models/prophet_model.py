@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np 
 import json 
 import warnings 
+import joblib 
 warnings.filterwarnings('ignore')
 
 
@@ -65,7 +66,7 @@ def train_local_prophet(clean_df, forecast_horizon = 8,tournament_path= 'tournam
         
     with open('tournament_results_v2.json','w') as f :
         json.dump(tournament,f,indent = 4 )
-        
+    joblib.dump(prophet_models,'prophet_models.pkl')
     print("Done training")
     return prophet_models,tournament
         
