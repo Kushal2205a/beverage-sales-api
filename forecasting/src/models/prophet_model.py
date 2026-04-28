@@ -27,7 +27,7 @@ def train_local_prophet(clean_df, forecast_horizon = 8,tournament_path= 'tournam
         
         cutoff = state_df['Date'].max()- pd.Timedelta(weeks = forecast_horizon)
         
-        train = state_df[state_df['Date'] <= cutoff]['Date','Total_log'].rename(columns = {'Date' : 'ds' , 'Total_log':'y'})
+        train = state_df[state_df['Date'] <= cutoff][['Date','Total_log']].rename(columns = {'Date' : 'ds' , 'Total_log':'y'})
         
         test = state_df[state_df['Date'] > cutoff]
         
