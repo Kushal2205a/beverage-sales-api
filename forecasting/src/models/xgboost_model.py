@@ -95,6 +95,9 @@ def train_global_xgboost(clean_df, local_results_path='local_model_results.json'
         json.dump(tournament, f, indent=4)
         
     print("Training done")
+    feature_columns = list(X_train.columns)
+    with open('xgb_feature_columns.json', 'w') as f:
+        json.dump(feature_columns, f)
     
     
     xgb_model.save_model("global_xgboost.json")
