@@ -68,6 +68,11 @@ def train_global_xgboost(clean_df, local_results_path='local_model_results.json'
     print("\n\n")
     
     real_scale_predictions = np.clip(np.expm1(xgb_model.predict(X_test)), 0, None)
+    print("\nPrediction range:")
+    print("Min:", real_scale_predictions.min())
+    print("Max:", real_scale_predictions.max())
+    print("First 5 predictions:", real_scale_predictions[:5])
+    print("Min:", real_scale_predictions.min())
     
     test_results = test[['Date', 'State_String', 'Total']].copy()
     test_results['XGB_Pred'] = real_scale_predictions
@@ -90,11 +95,7 @@ def train_global_xgboost(clean_df, local_results_path='local_model_results.json'
         json.dump(tournament, f, indent=4)
         
     print("Training done")
-    print("\nPrediction range:")
-    print("Min:", real_scale_predictions.min())
-    print("Max:", real_scale_predictions.max())
-    print("First 5 predictions:", real_scale_predictions[:5])
-    print("Min:", real_scale_predictions.min())
+    
     
     xgb_model.save_model("global_xgboost.json")
     return xgb_model, tournament
