@@ -1,0 +1,260 @@
+{
+    "Alabama": {
+        "XGBoost_SMAPE": 15.41,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 17.83,
+        "ARIMA_SMAPE": 37.04
+    },
+    "Arizona": {
+        "XGBoost_SMAPE": 15.32,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 20.31,
+        "ARIMA_SMAPE": 30.48
+    },
+    "Arkansas": {
+        "XGBoost_SMAPE": 11.72,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 18.68,
+        "ARIMA_SMAPE": 36.83
+    },
+    "California": {
+        "XGBoost_SMAPE": 32.77,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 20.34,
+        "ARIMA_SMAPE": 40.1
+    },
+    "Colorado": {
+        "XGBoost_SMAPE": 14.26,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 20.03,
+        "ARIMA_SMAPE": 38.34
+    },
+    "Connecticut": {
+        "XGBoost_SMAPE": 13.56,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.4,
+        "ARIMA_SMAPE": 36.45
+    },
+    "Florida": {
+        "XGBoost_SMAPE": 27.47,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 21.62,
+        "ARIMA_SMAPE": 39.51
+    },
+    "Georgia": {
+        "XGBoost_SMAPE": 19.36,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 17.77,
+        "ARIMA_SMAPE": 37.47
+    },
+    "Illinois": {
+        "XGBoost_SMAPE": 23.86,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 21.73,
+        "ARIMA_SMAPE": 39.1
+    },
+    "Indiana": {
+        "XGBoost_SMAPE": 15.41,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.13,
+        "ARIMA_SMAPE": 37.54
+    },
+    "Iowa": {
+        "XGBoost_SMAPE": 12.25,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.58,
+        "ARIMA_SMAPE": 36.59
+    },
+    "Kansas": {
+        "XGBoost_SMAPE": 12.95,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 18.82,
+        "ARIMA_SMAPE": 36.53
+    },
+    "Kentucky": {
+        "XGBoost_SMAPE": 11.36,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 18.4,
+        "ARIMA_SMAPE": 36.89
+    },
+    "Louisiana": {
+        "XGBoost_SMAPE": 14.91,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.8,
+        "ARIMA_SMAPE": 38.65
+    },
+    "Maine": {
+        "XGBoost_SMAPE": 19.72,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 20.47,
+        "ARIMA_SMAPE": 39.08
+    },
+    "Maryland": {
+        "XGBoost_SMAPE": 15.38,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 18.94,
+        "ARIMA_SMAPE": 38.47
+    },
+    "Massachusetts": {
+        "XGBoost_SMAPE": 14.6,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 20.49,
+        "ARIMA_SMAPE": 37.97
+    },
+    "Michigan": {
+        "XGBoost_SMAPE": 20.54,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 19.21,
+        "ARIMA_SMAPE": 38.08
+    },
+    "Minnesota": {
+        "XGBoost_SMAPE": 13.56,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.28,
+        "ARIMA_SMAPE": 36.77
+    },
+    "Mississippi": {
+        "XGBoost_SMAPE": 13.14,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 20.83,
+        "ARIMA_SMAPE": 38.36
+    },
+    "Missouri": {
+        "XGBoost_SMAPE": 12.35,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 17.86,
+        "ARIMA_SMAPE": 36.11
+    },
+    "Nebraska": {
+        "XGBoost_SMAPE": 10.98,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 23.87,
+        "ARIMA_SMAPE": 37.49
+    },
+    "Nevada": {
+        "XGBoost_SMAPE": 15.04,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 18.84,
+        "ARIMA_SMAPE": 30.52
+    },
+    "New Hampshire": {
+        "XGBoost_SMAPE": 16.69,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 20.1,
+        "ARIMA_SMAPE": 38.11
+    },
+    "New Mexico": {
+        "XGBoost_SMAPE": 16.32,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.59,
+        "ARIMA_SMAPE": 30.17
+    },
+    "New York": {
+        "XGBoost_SMAPE": 21.05,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 20.41,
+        "ARIMA_SMAPE": 38.18
+    },
+    "North Carolina": {
+        "XGBoost_SMAPE": 21.06,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 19.19,
+        "ARIMA_SMAPE": 37.53
+    },
+    "Ohio": {
+        "XGBoost_SMAPE": 21.16,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 19.26,
+        "ARIMA_SMAPE": 37.91
+    },
+    "Oklahoma": {
+        "XGBoost_SMAPE": 12.48,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.35,
+        "ARIMA_SMAPE": 36.53
+    },
+    "Oregon": {
+        "XGBoost_SMAPE": 12.93,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.5,
+        "ARIMA_SMAPE": 28.92
+    },
+    "Pennsylvania": {
+        "XGBoost_SMAPE": 21.66,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 18.9,
+        "ARIMA_SMAPE": 37.72
+    },
+    "Rhode Island": {
+        "XGBoost_SMAPE": 15.81,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.18,
+        "ARIMA_SMAPE": 35.32
+    },
+    "South Carolina": {
+        "XGBoost_SMAPE": 12.67,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 18.74,
+        "ARIMA_SMAPE": 36.87
+    },
+    "South Dakota": {
+        "XGBoost_SMAPE": 15.88,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 18.85,
+        "ARIMA_SMAPE": 37.2
+    },
+    "Tennessee": {
+        "XGBoost_SMAPE": 15.5,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 18.13,
+        "ARIMA_SMAPE": 36.8
+    },
+    "Texas": {
+        "XGBoost_SMAPE": 33.25,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 18.51,
+        "ARIMA_SMAPE": 37.57
+    },
+    "Utah": {
+        "XGBoost_SMAPE": 14.7,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.99,
+        "ARIMA_SMAPE": 38.48
+    },
+    "Vermont": {
+        "XGBoost_SMAPE": 19.91,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 19.18,
+        "ARIMA_SMAPE": 36.25
+    },
+    "Virginia": {
+        "XGBoost_SMAPE": 18.08,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.59,
+        "ARIMA_SMAPE": 37.25
+    },
+    "Washington": {
+        "XGBoost_SMAPE": 14.02,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.86,
+        "ARIMA_SMAPE": 28.94
+    },
+    "West Virginia": {
+        "XGBoost_SMAPE": 15.26,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 21.27,
+        "ARIMA_SMAPE": 29.4
+    },
+    "Wisconsin": {
+        "XGBoost_SMAPE": 13.67,
+        "Current_Best": "XGBoost",
+        "Prophet_SMAPE": 19.17,
+        "ARIMA_SMAPE": 36.78
+    },
+    "Wyoming": {
+        "XGBoost_SMAPE": 23.73,
+        "Current_Best": "Prophet",
+        "Prophet_SMAPE": 19.4,
+        "ARIMA_SMAPE": 36.65
+    }
+}
