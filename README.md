@@ -6,7 +6,7 @@ A time series forecasting system that trains multiple models, automatically sele
 
 The API serves precomputed forecasts from JSON.
 
-
+API docs live test link : https://beverage-sales-api.onrender.com/docs
 
 ## Project Structure
 
