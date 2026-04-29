@@ -1,12 +1,12 @@
 # Beverage Sales Forecast API
 
-> **Python version: 3.13.x required.** Python 3.14 breaks TensorFlow. Use 3.13 for local training and model development.
+> **Python version: 3.13 required.** Python 3.14 breaks TensorFlow. Use 3.13 for local training and model development.
 
 A time series forecasting system that trains multiple models, automatically selects the best performer per state, and serves 8 week beverage sales forecasts via a REST API.
 
 The API serves precomputed forecasts from JSON.
 
----
+
 
 ## Project Structure
 
@@ -35,7 +35,7 @@ forecasting/
 └── README.md
 ```
 
----
+
 
 ## Dataset
 
@@ -44,7 +44,6 @@ forecasting/
 - 226 data points per state after preprocessing
 - Single category: Beverages
 
----
 
 ## Setup & Installation
 
@@ -62,11 +61,11 @@ python -m uvicorn forecasting.src.api.main:app --reload
 
 Then open `http://127.0.0.1:8000/docs` for the interactive Swagger UI.
 
----
+
 
 ## API Endpoints
 
-### `GET /forecast/{state}`
+## `GET /forecast/{state}`
 Returns 8-week forecast for the specified state using the best-performing model.
 
 ```
@@ -93,9 +92,9 @@ GET /forecast/california
 
 State names are case-insensitive. `california`, `California`, and `CALIFORNIA` all work.
 
----
 
-### `GET /models`
+
+## `GET /models`
 Returns model performance scores and the winning model for every state.
 
 ```json
@@ -112,35 +111,35 @@ Returns model performance scores and the winning model for every state.
 }
 ```
 
-### `GET /states`
+## `GET /states`
 Lists all 43 valid state names.
 
-### `GET /health`
+## `GET /health`
 Returns system status and number of states loaded.
 
 ```json
 { "status": "ok", "states_loaded": 43 }
 ```
 
----
+
 
 ## Models
 
 Four models were trained and compared using SMAPE (Symmetric Mean Absolute Percentage Error) on a held out validation set consisting of the last 8 weeks of data per state.
 
-### XGBoost — Global Model
+## XGBoost
 A single model trained across all 43 states simultaneously. Uses lag features, rolling statistics, and time-based features. Forecasting is done recursively, each future step is predicted using the output of the previous step.
 
-### Prophet — Local Models (one per state)
+## Prophet(Local : one per state)
 Trained on original scale rather than log scale. Prophet's internal trend and seasonality decomposition performs better without the log transform. US public holidays added via `add_country_holidays`. Seasonality mode set to multiplicative, as holiday spikes grow proportionally with the overall trend.
 
-### ARIMA — Local Models (one per state)
+## ARIMA(Local : one per state)
 Implemented using `auto_arima` with `m=52` for weekly yearly seasonality. Consistently underperformed relative to XGBoost and Prophet across all states.
 
-### LSTM — Global Model
+## LSTM
 Single model with a state embedding layer trained across all states. Limited by the small dataset size (~226 points per state). Underperformed on the validation set and did not win any states in the final tournament.
 
----
+
 
 ## Model Performance Summary
 
@@ -150,7 +149,7 @@ Single model with a state embedding layer trained across all states. Limited by 
 | Avg SMAPE | ~16% | ~19% | ~36% | ~30% |
 | Best state | Nebraska (10.98%) | Texas (18.51%) | — | — |
 
-XGBoost dominates stable mid-size states where lag features capture the pattern well. Prophet wins large states : California, Texas, Florida, where trend decomposition handles the scale better than recursive lag-based prediction.
+XGBoost dominates stable mid size states where lag features capture the pattern well. Prophet wins large states : California, Texas, Florida, where trend decomposition handles the scale better than recursive lag-based prediction.
 
 ---
 
