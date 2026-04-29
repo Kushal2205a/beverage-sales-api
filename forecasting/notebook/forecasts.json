@@ -1,0 +1,1808 @@
+{
+    "Alabama": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 405916927.95,
+            "predicted_sales_millions": 405.92
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 379299839.24,
+            "predicted_sales_millions": 379.3
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 368141539.31,
+            "predicted_sales_millions": 368.14
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 359057708.01,
+            "predicted_sales_millions": 359.06
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 372226110.59,
+            "predicted_sales_millions": 372.23
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 367482787.77,
+            "predicted_sales_millions": 367.48
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 363025567.24,
+            "predicted_sales_millions": 363.03
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 370999895.39,
+            "predicted_sales_millions": 371.0
+        }
+    ],
+    "Arizona": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 434044062.72,
+            "predicted_sales_millions": 434.04
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 417671740.74,
+            "predicted_sales_millions": 417.67
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 391697061.05,
+            "predicted_sales_millions": 391.7
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 395941018.66,
+            "predicted_sales_millions": 395.94
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 412431102.17,
+            "predicted_sales_millions": 412.43
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 397136788.03,
+            "predicted_sales_millions": 397.14
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 373906830.95,
+            "predicted_sales_millions": 373.91
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 368083263.46,
+            "predicted_sales_millions": 368.08
+        }
+    ],
+    "Arkansas": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 214026028.78,
+            "predicted_sales_millions": 214.03
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 201247228.61,
+            "predicted_sales_millions": 201.25
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 204526000.74,
+            "predicted_sales_millions": 204.53
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 194987059.15,
+            "predicted_sales_millions": 194.99
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 207195183.91,
+            "predicted_sales_millions": 207.2
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 200328479.33,
+            "predicted_sales_millions": 200.33
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 195099407.81,
+            "predicted_sales_millions": 195.1
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 208129545.74,
+            "predicted_sales_millions": 208.13
+        }
+    ],
+    "California": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 1076453710.9,
+            "predicted_sales_millions": 1076.45
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 1042187558.24,
+            "predicted_sales_millions": 1042.19
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 1203836959.85,
+            "predicted_sales_millions": 1203.84
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 1429713441.47,
+            "predicted_sales_millions": 1429.71
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 1525029556.62,
+            "predicted_sales_millions": 1525.03
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 1370812239.41,
+            "predicted_sales_millions": 1370.81
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 1154205187.7,
+            "predicted_sales_millions": 1154.21
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 1020027961.86,
+            "predicted_sales_millions": 1020.03
+        }
+    ],
+    "Colorado": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 353922805.29,
+            "predicted_sales_millions": 353.92
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 338690847.22,
+            "predicted_sales_millions": 338.69
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 348851356.21,
+            "predicted_sales_millions": 348.85
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 342293240.86,
+            "predicted_sales_millions": 342.29
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 365724898.41,
+            "predicted_sales_millions": 365.72
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 327042390.17,
+            "predicted_sales_millions": 327.04
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 309690078.27,
+            "predicted_sales_millions": 309.69
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 303782975.68,
+            "predicted_sales_millions": 303.78
+        }
+    ],
+    "Connecticut": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 174563382.33,
+            "predicted_sales_millions": 174.56
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 167067177.37,
+            "predicted_sales_millions": 167.07
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 174969057.07,
+            "predicted_sales_millions": 174.97
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 174301544.71,
+            "predicted_sales_millions": 174.3
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 180998614.31,
+            "predicted_sales_millions": 181.0
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 187603796.05,
+            "predicted_sales_millions": 187.6
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 178068139.96,
+            "predicted_sales_millions": 178.07
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 180341117.42,
+            "predicted_sales_millions": 180.34
+        }
+    ],
+    "Florida": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 944402803.57,
+            "predicted_sales_millions": 944.4
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 887664501.96,
+            "predicted_sales_millions": 887.66
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 1020121067.59,
+            "predicted_sales_millions": 1020.12
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 1222192539.82,
+            "predicted_sales_millions": 1222.19
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 1329370772.6,
+            "predicted_sales_millions": 1329.37
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 1182468457.15,
+            "predicted_sales_millions": 1182.47
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 992848323.28,
+            "predicted_sales_millions": 992.85
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 848320790.91,
+            "predicted_sales_millions": 848.32
+        }
+    ],
+    "Georgia": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 479828290.8,
+            "predicted_sales_millions": 479.83
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 463263109.2,
+            "predicted_sales_millions": 463.26
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 526716024.87,
+            "predicted_sales_millions": 526.72
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 622202730.09,
+            "predicted_sales_millions": 622.2
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 666136888.96,
+            "predicted_sales_millions": 666.14
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 609500994.79,
+            "predicted_sales_millions": 609.5
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 516608698.65,
+            "predicted_sales_millions": 516.61
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 457972934.17,
+            "predicted_sales_millions": 457.97
+        }
+    ],
+    "Illinois": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 390503242.22,
+            "predicted_sales_millions": 390.5
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 372388508.67,
+            "predicted_sales_millions": 372.39
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 428245187.58,
+            "predicted_sales_millions": 428.25
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 514963213.27,
+            "predicted_sales_millions": 514.96
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 556625142.0,
+            "predicted_sales_millions": 556.63
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 507436247.78,
+            "predicted_sales_millions": 507.44
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 427952930.24,
+            "predicted_sales_millions": 427.95
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 380877439.81,
+            "predicted_sales_millions": 380.88
+        }
+    ],
+    "Indiana": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 469961167.61,
+            "predicted_sales_millions": 469.96
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 427496625.45,
+            "predicted_sales_millions": 427.5
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 402401002.7,
+            "predicted_sales_millions": 402.4
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 405483593.36,
+            "predicted_sales_millions": 405.48
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 396256817.11,
+            "predicted_sales_millions": 396.26
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 396786987.2,
+            "predicted_sales_millions": 396.79
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 377118402.29,
+            "predicted_sales_millions": 377.12
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 369463996.56,
+            "predicted_sales_millions": 369.46
+        }
+    ],
+    "Iowa": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 217961521.21,
+            "predicted_sales_millions": 217.96
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 214388428.39,
+            "predicted_sales_millions": 214.39
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 215735926.22,
+            "predicted_sales_millions": 215.74
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 209482849.61,
+            "predicted_sales_millions": 209.48
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 208577816.27,
+            "predicted_sales_millions": 208.58
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 199893744.09,
+            "predicted_sales_millions": 199.89
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 201929329.42,
+            "predicted_sales_millions": 201.93
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 208514570.8,
+            "predicted_sales_millions": 208.51
+        }
+    ],
+    "Kansas": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 176838500.26,
+            "predicted_sales_millions": 176.84
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 168698319.03,
+            "predicted_sales_millions": 168.7
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 174924009.72,
+            "predicted_sales_millions": 174.92
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 173733643.4,
+            "predicted_sales_millions": 173.73
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 181727818.77,
+            "predicted_sales_millions": 181.73
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 187897084.43,
+            "predicted_sales_millions": 187.9
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 179885928.12,
+            "predicted_sales_millions": 179.89
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 173121357.84,
+            "predicted_sales_millions": 173.12
+        }
+    ],
+    "Kentucky": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 343499257.47,
+            "predicted_sales_millions": 343.5
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 323405518.49,
+            "predicted_sales_millions": 323.41
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 324832339.78,
+            "predicted_sales_millions": 324.83
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 317716996.75,
+            "predicted_sales_millions": 317.72
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 337917820.91,
+            "predicted_sales_millions": 337.92
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 336624801.61,
+            "predicted_sales_millions": 336.62
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 306354253.74,
+            "predicted_sales_millions": 306.35
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 303169989.14,
+            "predicted_sales_millions": 303.17
+        }
+    ],
+    "Louisiana": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 367162607.9,
+            "predicted_sales_millions": 367.16
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 347286572.79,
+            "predicted_sales_millions": 347.29
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 346621501.88,
+            "predicted_sales_millions": 346.62
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 340310356.73,
+            "predicted_sales_millions": 340.31
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 359243349.85,
+            "predicted_sales_millions": 359.24
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 349413390.17,
+            "predicted_sales_millions": 349.41
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 322895788.08,
+            "predicted_sales_millions": 322.9
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 313672478.18,
+            "predicted_sales_millions": 313.67
+        }
+    ],
+    "Maine": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 93613467.91,
+            "predicted_sales_millions": 93.61
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 87111841.73,
+            "predicted_sales_millions": 87.11
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 87896437.62,
+            "predicted_sales_millions": 87.9
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 84943251.41,
+            "predicted_sales_millions": 84.94
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 91202447.33,
+            "predicted_sales_millions": 91.2
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 90989774.92,
+            "predicted_sales_millions": 90.99
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 87481983.23,
+            "predicted_sales_millions": 87.48
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 82999919.21,
+            "predicted_sales_millions": 83.0
+        }
+    ],
+    "Maryland": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 314759042.45,
+            "predicted_sales_millions": 314.76
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 312314333.64,
+            "predicted_sales_millions": 312.31
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 325980566.17,
+            "predicted_sales_millions": 325.98
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 321992334.22,
+            "predicted_sales_millions": 321.99
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 318168785.49,
+            "predicted_sales_millions": 318.17
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 304337406.57,
+            "predicted_sales_millions": 304.34
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 303926126.15,
+            "predicted_sales_millions": 303.93
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 279614690.31,
+            "predicted_sales_millions": 279.61
+        }
+    ],
+    "Massachusetts": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 364267110.66,
+            "predicted_sales_millions": 364.27
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 350493376.99,
+            "predicted_sales_millions": 350.49
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 351843022.7,
+            "predicted_sales_millions": 351.84
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 340310356.73,
+            "predicted_sales_millions": 340.31
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 365604936.92,
+            "predicted_sales_millions": 365.6
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 371893285.91,
+            "predicted_sales_millions": 371.89
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 313460159.69,
+            "predicted_sales_millions": 313.46
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 310951986.86,
+            "predicted_sales_millions": 310.95
+        }
+    ],
+    "Michigan": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 360287642.73,
+            "predicted_sales_millions": 360.29
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 343694010.84,
+            "predicted_sales_millions": 343.69
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 395468508.74,
+            "predicted_sales_millions": 395.47
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 474720043.96,
+            "predicted_sales_millions": 474.72
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 512207031.24,
+            "predicted_sales_millions": 512.21
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 466079782.62,
+            "predicted_sales_millions": 466.08
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 394756542.47,
+            "predicted_sales_millions": 394.76
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 353306614.04,
+            "predicted_sales_millions": 353.31
+        }
+    ],
+    "Minnesota": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 331086857.61,
+            "predicted_sales_millions": 331.09
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 321154495.02,
+            "predicted_sales_millions": 321.15
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 317454708.34,
+            "predicted_sales_millions": 317.45
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 319441479.62,
+            "predicted_sales_millions": 319.44
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 318505162.96,
+            "predicted_sales_millions": 318.51
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 304042086.88,
+            "predicted_sales_millions": 304.04
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 295601351.84,
+            "predicted_sales_millions": 295.6
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 297982862.95,
+            "predicted_sales_millions": 297.98
+        }
+    ],
+    "Mississippi": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 248627105.44,
+            "predicted_sales_millions": 248.63
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 230674320.55,
+            "predicted_sales_millions": 230.67
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 228694611.53,
+            "predicted_sales_millions": 228.69
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 215385626.88,
+            "predicted_sales_millions": 215.39
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 228912379.13,
+            "predicted_sales_millions": 228.91
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 225419308.61,
+            "predicted_sales_millions": 225.42
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 218169068.54,
+            "predicted_sales_millions": 218.17
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 209543591.05,
+            "predicted_sales_millions": 209.54
+        }
+    ],
+    "Missouri": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 393448438.42,
+            "predicted_sales_millions": 393.45
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 345145709.08,
+            "predicted_sales_millions": 345.15
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 352772361.65,
+            "predicted_sales_millions": 352.77
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 358142549.33,
+            "predicted_sales_millions": 358.14
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 365623068.11,
+            "predicted_sales_millions": 365.62
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 369158988.87,
+            "predicted_sales_millions": 369.16
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 362788146.12,
+            "predicted_sales_millions": 362.79
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 313771210.37,
+            "predicted_sales_millions": 313.77
+        }
+    ],
+    "Nebraska": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 122889102.33,
+            "predicted_sales_millions": 122.89
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 116167675.98,
+            "predicted_sales_millions": 116.17
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 114304510.9,
+            "predicted_sales_millions": 114.3
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 111286274.84,
+            "predicted_sales_millions": 111.29
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 117084596.57,
+            "predicted_sales_millions": 117.08
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 108492078.57,
+            "predicted_sales_millions": 108.49
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 107641627.02,
+            "predicted_sales_millions": 107.64
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 108108897.57,
+            "predicted_sales_millions": 108.11
+        }
+    ],
+    "Nevada": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 197253522.66,
+            "predicted_sales_millions": 197.25
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 193503241.0,
+            "predicted_sales_millions": 193.5
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 194594348.07,
+            "predicted_sales_millions": 194.59
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 195878696.25,
+            "predicted_sales_millions": 195.88
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 203941294.43,
+            "predicted_sales_millions": 203.94
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 199540241.2,
+            "predicted_sales_millions": 199.54
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 197156478.88,
+            "predicted_sales_millions": 197.16
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 211229763.71,
+            "predicted_sales_millions": 211.23
+        }
+    ],
+    "New Hampshire": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 115379129.93,
+            "predicted_sales_millions": 115.38
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 108660237.71,
+            "predicted_sales_millions": 108.66
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 111233222.06,
+            "predicted_sales_millions": 111.23
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 111191434.29,
+            "predicted_sales_millions": 111.19
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 123009404.46,
+            "predicted_sales_millions": 123.01
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 121388616.9,
+            "predicted_sales_millions": 121.39
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 111512563.34,
+            "predicted_sales_millions": 111.51
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 110347812.13,
+            "predicted_sales_millions": 110.35
+        }
+    ],
+    "New Mexico": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 152314108.99,
+            "predicted_sales_millions": 152.31
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 150487921.06,
+            "predicted_sales_millions": 150.49
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 155087039.72,
+            "predicted_sales_millions": 155.09
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 154724216.19,
+            "predicted_sales_millions": 154.72
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 166470765.68,
+            "predicted_sales_millions": 166.47
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 164871853.78,
+            "predicted_sales_millions": 164.87
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 147015331.14,
+            "predicted_sales_millions": 147.02
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 145808939.14,
+            "predicted_sales_millions": 145.81
+        }
+    ],
+    "New York": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 537411400.91,
+            "predicted_sales_millions": 537.41
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 508973851.48,
+            "predicted_sales_millions": 508.97
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 580536666.39,
+            "predicted_sales_millions": 580.54
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 696231687.28,
+            "predicted_sales_millions": 696.23
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 755429911.18,
+            "predicted_sales_millions": 755.43
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 695512798.77,
+            "predicted_sales_millions": 695.51
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 594204898.02,
+            "predicted_sales_millions": 594.2
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 531924512.12,
+            "predicted_sales_millions": 531.92
+        }
+    ],
+    "North Carolina": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 446031731.5,
+            "predicted_sales_millions": 446.03
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 429972522.83,
+            "predicted_sales_millions": 429.97
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 490134091.67,
+            "predicted_sales_millions": 490.13
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 581909694.98,
+            "predicted_sales_millions": 581.91
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 621396792.5,
+            "predicted_sales_millions": 621.4
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 568054767.04,
+            "predicted_sales_millions": 568.05
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 476249903.66,
+            "predicted_sales_millions": 476.25
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 423435553.34,
+            "predicted_sales_millions": 423.44
+        }
+    ],
+    "Ohio": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 462755086.89,
+            "predicted_sales_millions": 462.76
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 442248382.42,
+            "predicted_sales_millions": 442.25
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 508201080.33,
+            "predicted_sales_millions": 508.2
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 610559869.43,
+            "predicted_sales_millions": 610.56
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 658674483.51,
+            "predicted_sales_millions": 658.67
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 600156186.14,
+            "predicted_sales_millions": 600.16
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 502851377.66,
+            "predicted_sales_millions": 502.85
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 444396077.16,
+            "predicted_sales_millions": 444.4
+        }
+    ],
+    "Oklahoma": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 298020945.32,
+            "predicted_sales_millions": 298.02
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 284571074.56,
+            "predicted_sales_millions": 284.57
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 289229446.04,
+            "predicted_sales_millions": 289.23
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 290732755.04,
+            "predicted_sales_millions": 290.73
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 289272478.83,
+            "predicted_sales_millions": 289.27
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 272825020.78,
+            "predicted_sales_millions": 272.83
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 268522011.27,
+            "predicted_sales_millions": 268.52
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 269214325.09,
+            "predicted_sales_millions": 269.21
+        }
+    ],
+    "Oregon": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 214011333.28,
+            "predicted_sales_millions": 214.01
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 200498966.76,
+            "predicted_sales_millions": 200.5
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 197914914.84,
+            "predicted_sales_millions": 197.91
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 202741312.42,
+            "predicted_sales_millions": 202.74
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 205726735.89,
+            "predicted_sales_millions": 205.73
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 190882608.95,
+            "predicted_sales_millions": 190.88
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 183097591.58,
+            "predicted_sales_millions": 183.1
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 200469140.11,
+            "predicted_sales_millions": 200.47
+        }
+    ],
+    "Pennsylvania": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 450592251.72,
+            "predicted_sales_millions": 450.59
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 431899993.54,
+            "predicted_sales_millions": 431.9
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 493822064.69,
+            "predicted_sales_millions": 493.82
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 589988553.99,
+            "predicted_sales_millions": 589.99
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 635702805.31,
+            "predicted_sales_millions": 635.7
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 583702475.99,
+            "predicted_sales_millions": 583.7
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 495235039.44,
+            "predicted_sales_millions": 495.24
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 443147082.37,
+            "predicted_sales_millions": 443.15
+        }
+    ],
+    "Rhode Island": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 49396455.64,
+            "predicted_sales_millions": 49.4
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 49013732.09,
+            "predicted_sales_millions": 49.01
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 51996025.31,
+            "predicted_sales_millions": 52.0
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 50173379.66,
+            "predicted_sales_millions": 50.17
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 53062933.58,
+            "predicted_sales_millions": 53.06
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 52179225.16,
+            "predicted_sales_millions": 52.18
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 48292699.8,
+            "predicted_sales_millions": 48.29
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 48125715.56,
+            "predicted_sales_millions": 48.13
+        }
+    ],
+    "South Carolina": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 396942920.92,
+            "predicted_sales_millions": 396.94
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 355765759.56,
+            "predicted_sales_millions": 355.77
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 357144563.14,
+            "predicted_sales_millions": 357.14
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 354960531.83,
+            "predicted_sales_millions": 354.96
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 365623068.11,
+            "predicted_sales_millions": 365.62
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 359073459.86,
+            "predicted_sales_millions": 359.07
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 345772992.58,
+            "predicted_sales_millions": 345.77
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 319736510.34,
+            "predicted_sales_millions": 319.74
+        }
+    ],
+    "South Dakota": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 55642898.02,
+            "predicted_sales_millions": 55.64
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 52667069.04,
+            "predicted_sales_millions": 52.67
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 53605233.92,
+            "predicted_sales_millions": 53.61
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 52883489.58,
+            "predicted_sales_millions": 52.88
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 55615523.11,
+            "predicted_sales_millions": 55.62
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 54215188.69,
+            "predicted_sales_millions": 54.22
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 51599557.1,
+            "predicted_sales_millions": 51.6
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 50814988.34,
+            "predicted_sales_millions": 50.81
+        }
+    ],
+    "Tennessee": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 506313898.13,
+            "predicted_sales_millions": 506.31
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 518287174.29,
+            "predicted_sales_millions": 518.29
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 491302867.07,
+            "predicted_sales_millions": 491.3
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 453694994.76,
+            "predicted_sales_millions": 453.69
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 468356703.74,
+            "predicted_sales_millions": 468.36
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 429254940.33,
+            "predicted_sales_millions": 429.25
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 403995989.79,
+            "predicted_sales_millions": 404.0
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 396734770.66,
+            "predicted_sales_millions": 396.73
+        }
+    ],
+    "Texas": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 1135013201.07,
+            "predicted_sales_millions": 1135.01
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 1089258539.06,
+            "predicted_sales_millions": 1089.26
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 1249227078.89,
+            "predicted_sales_millions": 1249.23
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 1487625651.6,
+            "predicted_sales_millions": 1487.63
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 1592351367.79,
+            "predicted_sales_millions": 1592.35
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 1443984298.3,
+            "predicted_sales_millions": 1443.98
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 1216001650.82,
+            "predicted_sales_millions": 1216.0
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 1082241298.38,
+            "predicted_sales_millions": 1082.24
+        }
+    ],
+    "Utah": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 166205849.34,
+            "predicted_sales_millions": 166.21
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 160737432.74,
+            "predicted_sales_millions": 160.74
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 168208017.22,
+            "predicted_sales_millions": 168.21
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 166079726.24,
+            "predicted_sales_millions": 166.08
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 172926977.6,
+            "predicted_sales_millions": 172.93
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 180833670.78,
+            "predicted_sales_millions": 180.83
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 168669362.52,
+            "predicted_sales_millions": 168.67
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 181898781.96,
+            "predicted_sales_millions": 181.9
+        }
+    ],
+    "Vermont": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 22868072.22,
+            "predicted_sales_millions": 22.87
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 21498015.83,
+            "predicted_sales_millions": 21.5
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 24422809.41,
+            "predicted_sales_millions": 24.42
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 29121385.37,
+            "predicted_sales_millions": 29.12
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 31615097.23,
+            "predicted_sales_millions": 31.62
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 28701121.92,
+            "predicted_sales_millions": 28.7
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 24577144.1,
+            "predicted_sales_millions": 24.58
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 21879142.98,
+            "predicted_sales_millions": 21.88
+        }
+    ],
+    "Virginia": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 549419311.12,
+            "predicted_sales_millions": 549.42
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 526507251.98,
+            "predicted_sales_millions": 526.51
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 555171987.66,
+            "predicted_sales_millions": 555.17
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 555349912.46,
+            "predicted_sales_millions": 555.35
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 480168148.33,
+            "predicted_sales_millions": 480.17
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 439346430.48,
+            "predicted_sales_millions": 439.35
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 444161721.99,
+            "predicted_sales_millions": 444.16
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 413305996.86,
+            "predicted_sales_millions": 413.31
+        }
+    ],
+    "Washington": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 387174266.12,
+            "predicted_sales_millions": 387.17
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 353819537.07,
+            "predicted_sales_millions": 353.82
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 350129894.49,
+            "predicted_sales_millions": 350.13
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 341820235.38,
+            "predicted_sales_millions": 341.82
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 354898250.22,
+            "predicted_sales_millions": 354.9
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 353143302.33,
+            "predicted_sales_millions": 353.14
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 332331347.36,
+            "predicted_sales_millions": 332.33
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 312783495.54,
+            "predicted_sales_millions": 312.78
+        }
+    ],
+    "West Virginia": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 157114312.08,
+            "predicted_sales_millions": 157.11
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 152470486.88,
+            "predicted_sales_millions": 152.47
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 157716905.97,
+            "predicted_sales_millions": 157.72
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 159562327.02,
+            "predicted_sales_millions": 159.56
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 174357073.34,
+            "predicted_sales_millions": 174.36
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 164286725.99,
+            "predicted_sales_millions": 164.29
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 152744971.61,
+            "predicted_sales_millions": 152.74
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 159721881.42,
+            "predicted_sales_millions": 159.72
+        }
+    ],
+    "Wisconsin": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 313328056.53,
+            "predicted_sales_millions": 313.33
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 297594360.1,
+            "predicted_sales_millions": 297.59
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 301815867.52,
+            "predicted_sales_millions": 301.82
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 301679465.01,
+            "predicted_sales_millions": 301.68
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 302486112.61,
+            "predicted_sales_millions": 302.49
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 279526705.91,
+            "predicted_sales_millions": 279.53
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 267829434.42,
+            "predicted_sales_millions": 267.83
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 271973980.85,
+            "predicted_sales_millions": 271.97
+        }
+    ],
+    "Wyoming": [
+        {
+            "date": "2023-12-10",
+            "predicted_sales": 26361236.8,
+            "predicted_sales_millions": 26.36
+        },
+        {
+            "date": "2023-12-17",
+            "predicted_sales": 25110896.71,
+            "predicted_sales_millions": 25.11
+        },
+        {
+            "date": "2023-12-24",
+            "predicted_sales": 28932815.2,
+            "predicted_sales_millions": 28.93
+        },
+        {
+            "date": "2023-12-31",
+            "predicted_sales": 34589535.52,
+            "predicted_sales_millions": 34.59
+        },
+        {
+            "date": "2024-01-07",
+            "predicted_sales": 37030767.8,
+            "predicted_sales_millions": 37.03
+        },
+        {
+            "date": "2024-01-14",
+            "predicted_sales": 33384747.39,
+            "predicted_sales_millions": 33.38
+        },
+        {
+            "date": "2024-01-21",
+            "predicted_sales": 28279140.96,
+            "predicted_sales_millions": 28.28
+        },
+        {
+            "date": "2024-01-28",
+            "predicted_sales": 25552930.44,
+            "predicted_sales_millions": 25.55
+        }
+    ]
+}
