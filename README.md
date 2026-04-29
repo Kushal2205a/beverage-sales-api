@@ -152,7 +152,7 @@ XGBoost dominates stable mid size states where lag features capture the pattern 
 
 ## Feature Engineering
 
-All features were computed per state on log transformed sales (`np.log1p`), except for Prophet and ARIMA which uses original scale.
+All features were computed per state on log transformed sales (`np.log1p`), except for Prophet which uses original scale.
 
 | Feature | Description |
 |---------|-------------|
