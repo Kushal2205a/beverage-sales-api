@@ -65,8 +65,8 @@ Then open `http://127.0.0.1:8000/docs` for the interactive Swagger UI.
 
 ## API Endpoints
 
-## `GET /forecast/{state}`
-Returns 8-week forecast for the specified state using the best-performing model.
+# `GET /forecast/{state}`
+Returns 8 week forecast for the specified state using the best performing model.
 
 ```
 GET /forecast/california
@@ -90,11 +90,8 @@ GET /forecast/california
 }
 ```
 
-State names are case-insensitive. `california`, `California`, and `CALIFORNIA` all work.
 
-
-
-## `GET /models`
+# `GET /models`
 Returns model performance scores and the winning model for every state.
 
 ```json
@@ -111,10 +108,10 @@ Returns model performance scores and the winning model for every state.
 }
 ```
 
-## `GET /states`
+# `GET /states`
 Lists all 43 valid state names.
 
-## `GET /health`
+# `GET /health`
 Returns system status and number of states loaded.
 
 ```json
@@ -128,7 +125,7 @@ Returns system status and number of states loaded.
 Four models were trained and compared using SMAPE (Symmetric Mean Absolute Percentage Error) on a held out validation set consisting of the last 8 weeks of data per state.
 
 ## XGBoost
-A single model trained across all 43 states simultaneously. Uses lag features, rolling statistics, and time-based features. Forecasting is done recursively, each future step is predicted using the output of the previous step.
+A single model trained across all 43 states simultaneously. Uses lag features, rolling statistics, and time based features. Forecasting is done recursively, each future step is predicted using the output of the previous step.
 
 ## Prophet(Local : one per state)
 Trained on original scale rather than log scale. Prophet's internal trend and seasonality decomposition performs better without the log transform. US public holidays added via `add_country_holidays`. Seasonality mode set to multiplicative, as holiday spikes grow proportionally with the overall trend.
@@ -149,24 +146,24 @@ Single model with a state embedding layer trained across all states. Limited by 
 | Avg SMAPE | ~16% | ~19% | ~36% | ~30% |
 | Best state | Nebraska (10.98%) | Texas (18.51%) | — | — |
 
-XGBoost dominates stable mid size states where lag features capture the pattern well. Prophet wins large states : California, Texas, Florida, where trend decomposition handles the scale better than recursive lag-based prediction.
+XGBoost dominates stable mid size states where lag features capture the pattern well. Prophet wins large states : California, Texas, Florida, where trend decomposition handles the scale better than recursive lag based prediction.
 
 ---
 
 ## Feature Engineering
 
-All features were computed per state on log-transformed sales (`np.log1p`), except for Prophet and ARIMA which uses original scale.
+All features were computed per state on log transformed sales (`np.log1p`), except for Prophet and ARIMA which uses original scale.
 
 | Feature | Description |
 |---------|-------------|
 | `lag_1` | Sales 1 week ago |
 | `lag_7` | Sales 7 weeks ago |
 | `lag_30` | Sales 30 weeks ago |
-| `rolling_mean_4` | 4-week rolling average (shift-1 to prevent leakage) |
-| `rolling_std_4` | 4-week rolling std (shift-1 to prevent leakage) |
+| `rolling_mean_4` | 4 week rolling average  |
+| `rolling_std_4` | 4 week rolling std  |
 | `month` | Calendar month |
 | `week_of_year` | ISO week number |
-| `is_holiday_week` | 1 if any US federal holiday falls within the week |
+| `is_holiday_week` | 1 if any US holiday falls within the week |
 
 Day of week was excluded after resampling to weekly frequency cause it becomes a constant column and carries no information.
 
