@@ -1,4 +1,5 @@
-from fastapi import FastAPI, HTTPException 
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import RedirectResponse
 
 import json 
 from pathlib import Path 
@@ -17,10 +18,7 @@ STATES = set(forecasts.keys())
 
 @app.get("/")
 def root():
-    return{
-        "message": "Beverage Sales Forecast API",
-        "endpoints" : ["/forecast/{state}", "/models", "/states"]
-    }
+    return RedirectResponse(url="/docs")
     
 @app.get("/health", tags = ["System"])
 def health():
