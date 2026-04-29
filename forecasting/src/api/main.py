@@ -16,7 +16,7 @@ with open(BASE_DIR/'notebook'/'tournament_results_v2.json','r') as f:
 
 STATES = set(forecasts.keys())
 
-@app.get("/")
+@app.get("/",include_in_schema = False)
 def root():
     return RedirectResponse(url="/docs")
     
