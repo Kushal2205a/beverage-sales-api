@@ -65,7 +65,7 @@ Then open `http://127.0.0.1:8000/docs` for the interactive Swagger UI.
 
 ## API Endpoints
 
-# `GET /forecast/{state}`
+#### `GET /forecast/{state}`
 Returns 8 week forecast for the specified state using the best performing model.
 
 ```
@@ -91,7 +91,7 @@ GET /forecast/california
 ```
 
 
-# `GET /models`
+#### `GET /models`
 Returns model performance scores and the winning model for every state.
 
 ```json
@@ -108,10 +108,10 @@ Returns model performance scores and the winning model for every state.
 }
 ```
 
-# `GET /states`
+#### `GET /states`
 Lists all 43 valid state names.
 
-# `GET /health`
+#### `GET /health`
 Returns system status and number of states loaded.
 
 ```json
@@ -124,16 +124,16 @@ Returns system status and number of states loaded.
 
 Four models were trained and compared using SMAPE (Symmetric Mean Absolute Percentage Error) on a held out validation set consisting of the last 8 weeks of data per state.
 
-## XGBoost
+### XGBoost
 A single model trained across all 43 states simultaneously. Uses lag features, rolling statistics, and time based features. Forecasting is done recursively, each future step is predicted using the output of the previous step.
 
-## Prophet(Local : one per state)
+### Prophet(Local : one per state)
 Trained on original scale rather than log scale. Prophet's internal trend and seasonality decomposition performs better without the log transform. US public holidays added via `add_country_holidays`. Seasonality mode set to multiplicative, as holiday spikes grow proportionally with the overall trend.
 
-## ARIMA(Local : one per state)
+### ARIMA(Local : one per state)
 Implemented using `auto_arima` with `m=52` for weekly yearly seasonality. Consistently underperformed relative to XGBoost and Prophet across all states.
 
-## LSTM
+### LSTM
 Single model with a state embedding layer trained across all states. Limited by the small dataset size (~226 points per state). Underperformed on the validation set and did not win any states in the final tournament.
 
 
