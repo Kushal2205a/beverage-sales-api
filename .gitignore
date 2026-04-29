@@ -2,3 +2,7 @@
 forecasting/data/forecasting-study.xlsx
 forecasting/src/features/__pycache__/
 forecasting/src/models/__pycache__/
+forecasting/notebook/models/
+
+forecasting/src/__pycache__
+forecasting/src/api/__pycache__
